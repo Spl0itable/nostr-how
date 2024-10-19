@@ -14,6 +14,7 @@ description: This is a list of all known implementations of the Nostr relay spec
 ## C#
 
 -   [NNostr](https://github.com/Kukks/NNostr): A C# relay
+-   [netstr](https://github.com/bezysoftware/netstr): A modern relay with high test coverage
 
 ## Rust
 
@@ -41,3 +42,7 @@ description: This is a list of all known implementations of the Nostr relay spec
 
 -   [NostrPostr Relay](https://github.com/Giszmo/NostrPostr/tree/master/NostrRelay): A Kotlin Relay supporting both SQLite and Postgresql
 -   [knostr](https://github.com/lpicanco/knostr): A nostr relay implemented in Kotlin with support for Postgres and metrics(micrometer)
+
+## Java
+
+-   [SuperConductor](https://github.com/avlo/superconductor) Nostr-Relay Framework & Web Application: Java 20, Spring WebSocketSession 3.2.2, Spring Boot 3.2.4, atop [nostr-java library](https://github.com/tcheeric/nostr-java).  Simple. Clean. OO.
